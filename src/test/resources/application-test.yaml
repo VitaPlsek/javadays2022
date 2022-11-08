@@ -1,0 +1,11 @@
+
+  spring:
+    datasource:
+      driver-class-name: "org.testcontainers.jdbc.ContainerDatabaseDriver"
+      url: "jdbc:tc:postgresql:13.8://localhost:45432/postgres?TC_REUSABLE=true"
+
+  liquibase:
+    drop-first: false
+
+  main:
+    lazy-initialization: true
