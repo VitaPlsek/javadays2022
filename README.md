@@ -1,4 +1,4 @@
-# Materiály z povídání Javadays.2022 
+# Materiály z povídání na Javadays 2022 
 ## Jak testovat webové aplikace v Kotlinu a ještě k tomu s radostí
 
 ### Odkazy
